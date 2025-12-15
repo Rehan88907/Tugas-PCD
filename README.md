@@ -14,9 +14,13 @@ Proyek ini mengimplementasikan teknik **image restoration** menggunakan **mean f
 
 ## 📂 Struktur Folder
 image-restoration-mean-filter/
+
 ├── restoration.py
+
 ├── gambar.png
+
 ├── requirements.txt
+
 └── README.md
 
 
